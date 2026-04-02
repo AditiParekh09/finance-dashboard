@@ -1,0 +1,18 @@
+{
+  "name": "fintrack-dashboard",
+  "version": "1.0.0",
+  "description": "A clean, interactive finance dashboard built with React.js for tracking income, expenses, and financial insights.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^5.0.0"
+  }
+}
